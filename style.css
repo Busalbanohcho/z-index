@@ -1,0 +1,47 @@
+.container {
+    border: 2px solid deepskyblue;
+    height: 600px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: end;
+
+
+}
+.box {
+    background-color: red;
+    height: 187px;
+    width: 470px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.blue {
+    background-color: #104357;
+    height: 187px;
+    width: 470px;
+    margin-top: 10px;
+    margin-right: 10px;
+
+}
+
+.name {
+    margin-right: 20rem;
+    margin-top: 40px;
+    font-size: 25px;
+    position: sticky;
+    top: 0;
+}
+ .name3 {
+     margin-right: 20rem;
+     margin-top: 40px;
+     font-size: 25px;
+ }
+ .bluesticky {
+     background-color: #104357;
+     height: 187px;
+     width: 470px;
+     margin-top: 10px;
+     margin-right: 10px;
+     position: sticky;
+     bottom: 0;
+
+ }
